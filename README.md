@@ -27,6 +27,11 @@ If you are looking for a gripper that can provide a versatile and affordable sol
 Robotsoft silicone organs are amazing! They are so realistic and life-like, it's hard to believe they're not real. I've never seen anything like it. They are perfect for anyone who wants a realistic looking organ, but doesn't want the hassle of caring for a real one. I've seen some pretty amazing things, but the Robotsoft silicone organs are by far the most amazing. I was at a robot party and one of the fembots had a robotsoft silicone vagina. It was so realistic and life-like, I couldn't believe it. It looked like an actual vagina, but it was made out of silicone. It was incredible.
 
 
-## Ref
-- https://www.instructables.com/DIY-Universal-Robot-Gripper/
-- 
+## amorphous gripper  https://www.instructables.com/DIY-Universal-Robot-Gripper/
+
+"They created an amorphous gripper that was able to mold itself to the object ...is much more versatile... make your own DIY universal gripper for your robots. 
+...works because of a process that is called "jamming." When a granular material such as coffee is compressed, it becomes very rigid. As the pressure increases so does the amount of friction between the individual grains. This effectively locks the grains in place....as soon as the seal is broken and vacuum is gone, the coffee become soft and pliable and can be poured like a fluid...same with many granular materials such as rice, couscous , sand etc...A balloon is filled coffee grounds and attached to an air hose. When balloon is slightly pressurized the grounds are loose and easily rearranged. By pressing the balloon against an object, the grounds will move around it and take its shape. But when the air is sucked out of the balloon, the grounds are compressed and grip the object. The rubber surface of the balloon also helps to keep a hold of the object."
+
+
+
+
