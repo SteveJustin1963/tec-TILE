@@ -1,4 +1,8 @@
 # tec-TILE
+
+![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/hand%20ee%20dec1971.png)
+
+
 tec-BOT gets 3 tactile devices.
 
 
