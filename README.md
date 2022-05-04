@@ -1,11 +1,16 @@
 # tec-TILE
 tec-BOT gets 3 tactile devices.
-- 2 or 3 tip grippers 
-- 1 soft silcone tentacle
-- 1 soft silcone organ
-- 
+### 1 soft silcone tentacle
+Robot silicone tentacle grippers are one of the most versatile and handy tools that a robot can have! These grippers can be used to grab onto and lift objects, as well as to provide a soft and gentle touch.
 
-robot 3 tip grippers, what are they? There are three types of grippers: those that use suction cups, those that use magnets, and those that use mechanical jaws. Robot grippers are devices that are attached to the end of a robotic arm and are used to grip and manipulate objects. There are a variety of different types of grippers, each with its own advantages and disadvantages.
+One of the great things about robot silicone tentacle grippers is that they can be used in a variety of settings and for a variety of tasks. For example, they can be used in manufacturing settings to grab and lift objects. They can also be used in healthcare settings to provide a gentle touch for patients.
+
+Another great thing about robot silicone tentacle grippers is that they are relatively inexpensive. This makes them a great option for those who are looking for a versatile and affordable gripper for their robot.
+
+If you are looking for a gripper that can provide a versatile and affordable solution for your robot, then look no further than robot silicone tentacle grippers!
+
+### 2 or 3 tip grippers 
+robot 2 or 3 tip grippers, what are they? There are three types of grippers: those that use suction cups, those that use magnets, and those that use mechanical jaws. Robot grippers are devices that are attached to the end of a robotic arm and are used to grip and manipulate objects. There are a variety of different types of grippers, each with its own advantages and disadvantages.
 
 One of the most popular types of grippers is the suction cup gripper. This type of gripper uses a vacuum to create a seal around an object, which allows the gripper to pick up and move the object. Suction cup grippers are simple and reliable, but they can only be used on smooth surfaces and are not well suited for picking up small or delicate objects.
 
@@ -14,3 +19,9 @@ Another type of gripper is the pneumatic gripper. This type of gripper uses air 
 Magnetic grippers are another option for picking up and manipulating objects. Magnetic grippers use magnets to hold onto objects, which makes them ideal for picking up metal objects. However, magnetic grippers can only be used on objects that are ferromagnetic, which means they cannot be used on objects made of aluminum or other non-magnetic materials.
 
 Finally, vacuum grippers are a type of gripper that uses a vacuum to hold onto objects. Vacuum grippers are similar to suction cup grippers, but they have a more sophisticated design that allows them to pick up and move objects with greater precision. Vacuum grippers are more expensive than other types of grippers, but they offer the best performance for picking up and moving delicate objects.
+
+
+### soft silcone organ
+
+Robotsoft silicone organs are amazing! They are so realistic and life-like, it's hard to believe they're not real. I've never seen anything like it. They are perfect for anyone who wants a realistic looking organ, but doesn't want the hassle of caring for a real one. I've seen some pretty amazing things in my life, but the Robotsoft silicone organs are by far the most amazing. I was at a robot party and one of the fembots had a robotsoft silicone vagina. It was so realistic and life-like, I couldn't believe it. It looked like an actual vagina, but it was made out of silicone. It was incredible.
+
