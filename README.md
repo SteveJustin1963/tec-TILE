@@ -1,12 +1,14 @@
 # tec-TILE = Robot_end_effector device
 
-These addons can be installed on the tec-BOT
-- tactile ports 
-- grippers, tentacle, amorphous
-- arms
-- soft internal organ device
+A robot arm needs an end_effector device such as 
+- grippers
+- tentacles
+- amorphous 
+- or maybe a soft internal organ device!
 
-The tec-1s early arms and grippers
+
+## The tec-1s early arms and grippers
+
 ![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/2.png)
 ![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/3.png)
 ![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/5.png)
