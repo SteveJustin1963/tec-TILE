@@ -51,7 +51,7 @@ Robotsoft silicone organs are amazing! Humans gaze upon it and are terrified! Th
 
 ## Iterate
 - what is grip without feed back of feel. add force feedback signals
-
+- https://github.com/SteveJustin1963/tec-T800
 
 ## References
 - https://hackaday.io/project/13087-two-stage-tentacle-mechanism
