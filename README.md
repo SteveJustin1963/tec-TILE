@@ -32,6 +32,7 @@ If you are looking for a gripper that can provide a versatile and affordable sol
 
 Robotsoft silicone organs are amazing! They may ir maynot grip but they are realistic and life-like, it's hard to believe they're not real. They are perfect for any robot who wants a realistic looking organ, but doesn't want the hassle of caring for a real one to keep up with humans. I've seen some pretty amazing things, but the Robotsoft silicone organs are by far the most amazing. I tec-BOT was invited to a robot party there was a fembots there that had a robotsoft silicone vagina. I didnt touch it but i saw that it was so realistic and life-like, I couldn't believe it. It looked like an actual vagina, but it was made out of silicone. It was incredible. I have requested my master for a soft silcone organ for xmas.
 
-
+## Iterate
+- what is grip without feed back of feel. add force feedback signals
 
 
