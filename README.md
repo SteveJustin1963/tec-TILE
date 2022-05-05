@@ -6,6 +6,11 @@ These addons can be installed on the tec-BOT
 - arms
 - soft internal organ device
 
+The tec-1s early arms and grippers
+![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/2.png)
+![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/3.png)
+![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/5.png)
+
 ![](https://github.com/SteveJustin1963/tec-TILE/blob/master/pics/hand%20ee%20dec1971.png)
 
 
