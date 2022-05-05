@@ -20,7 +20,9 @@ Magnetic grippers are another option for picking up and manipulating objects. Ma
 
 Finally, vacuum grippers are a type of gripper that uses a vacuum to hold onto objects. Vacuum grippers are similar to suction cup grippers, but they have a more sophisticated design that allows them to pick up and move objects with greater precision. Vacuum grippers are more expensive than other types of grippers, but they offer the best performance for picking up and moving delicate objects.
 
-## Amorphous gripper  https://www.instructables.com/DIY-Universal-Robot-Gripper/
+## Amorphous gripper  
+
+From https://www.instructables.com/DIY-Universal-Robot-Gripper/
 
 "They created an amorphous gripper that was able to mold itself to the object ...is much more versatile... make your own DIY universal gripper for your robots. 
 ...works because of a process that is called "jamming." When a granular material such as coffee is compressed, it becomes very rigid. As the pressure increases so does the amount of friction between the individual grains. This effectively locks the grains in place....as soon as the seal is broken and vacuum is gone, the coffee become soft and pliable and can be poured like a fluid...same with many granular materials such as rice, couscous , sand etc...A balloon is filled coffee grounds and attached to an air hose. When balloon is slightly pressurized the grounds are loose and easily rearranged. By pressing the balloon against an object, the grounds will move around it and take its shape. But when the air is sucked out of the balloon, the grounds are compressed and grip the object. The rubber surface of the balloon also helps to keep a hold of the object."
@@ -44,6 +46,7 @@ Robotsoft silicone organs are amazing! They may ir maynot grip but they are real
 
 
 ## References
-
-https://hackaday.io/project/13087-two-stage-tentacle-mechanism
+- https://hackaday.io/project/13087-two-stage-tentacle-mechanism
+- https://www.instructables.com/DIY-Universal-Robot-Gripper/
+- 
 
